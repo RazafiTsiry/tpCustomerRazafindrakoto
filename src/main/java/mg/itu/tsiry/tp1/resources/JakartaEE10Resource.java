@@ -1,4 +1,4 @@
-package fr.grin.tpcustomerrazafindrakoto.resources;
+package mg.itu.tsiry.tp1.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

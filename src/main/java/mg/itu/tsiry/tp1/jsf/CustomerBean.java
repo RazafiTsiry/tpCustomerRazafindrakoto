@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/JSF/JSFManagedBean.java to edit this template
  */
-package fr.grin.tpcustomerrazafindrakoto.jsf;
+package mg.itu.tsiry.tp1.jsf;
 
-import fr.grin.tpcustomerrazafindrakoto.ejb.CustomerManager;
-import fr.grin.tpcustomerrazafindrakoto.entities.Customer;
+import mg.itu.tsiry.tp1.ejb.CustomerManager;
+import mg.itu.tsiry.tp1.entities.Customer;
 import jakarta.ejb.EJB;
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Named;

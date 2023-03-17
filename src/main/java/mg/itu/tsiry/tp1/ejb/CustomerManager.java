@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package fr.grin.tpcustomerrazafindrakoto.ejb;
+package mg.itu.tsiry.tp1.ejb;
 
-import fr.grin.tpcustomerrazafindrakoto.entities.Customer;
+import mg.itu.tsiry.tp1.entities.Customer;
 import jakarta.ejb.Stateless;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;

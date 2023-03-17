@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package fr.grin.tpcustomerrazafindrakoto.entities;
+package mg.itu.tsiry.tp1.entities;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -93,7 +93,7 @@ public class Discount implements Serializable {
 
     @Override
     public String toString() {
-        return "fr.grin.tpcustomerrazafindrakoto.entities.Discount[ code=" + code + " ]";
+        return "mg.itu.tsiry.tp1.entities.Discount[ code=" + code + " ]";
     }
     
 }

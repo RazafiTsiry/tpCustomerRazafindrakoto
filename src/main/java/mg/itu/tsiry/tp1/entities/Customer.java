@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package fr.grin.tpcustomerrazafindrakoto.entities;
+package mg.itu.tsiry.tp1.entities;
 
 import jakarta.persistence.Basic;
 import jakarta.persistence.Column;
@@ -192,7 +192,7 @@ public class Customer implements Serializable {
 
     @Override
     public String toString() {
-        return "fr.grin.tpcustomerrazafindrakoto.entities.Customer[ customerId=" + customerId + " ]";
+        return "mg.itu.tsiry.tp1.entities.Customer[ customerId=" + customerId + " ]";
     }
     
 }

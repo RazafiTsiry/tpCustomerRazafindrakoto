@@ -1,4 +1,4 @@
-package fr.grin.tpcustomerrazafindrakoto;
+package mg.itu.tsiry.tp1;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
