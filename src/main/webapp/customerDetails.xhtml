@@ -18,7 +18,7 @@
             <h1><h:outputText value="Create/Edit"/></h1>
             <h:panelGrid columns="2">
                 <h:outputLabel value="CustomerId:" for="customerId" />
-                <h:inputText id="customerId" value="#{customerDetailsBean.customer.customerId}" title="CustomerId" required="true" requiredMessage="The CustomerId field is required."/>
+                <h:inputText id="customerId" value="#{customerDetailsBean.customer.customerId}" title="CustomerId" required="true" requiredMessage="The CustomerId field is required." readonly="true"/>
                 <h:outputLabel value="Name:" for="name" />
                 <h:inputText id="name" value="#{customerDetailsBean.customer.name}" title="Name" />
                 <h:outputLabel value="Addressline1:" for="addressline1" />
